@@ -1,3 +1,3 @@
-# presettable-digital-clock
+# Presettable-Digital-Clock
 
-why isnt anything showing up
+Import File Digital Clock.cv to Circuit Verse to see project
